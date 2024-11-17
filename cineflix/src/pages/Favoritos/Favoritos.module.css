@@ -1,0 +1,7 @@
+.containerCards{
+    display: flex;
+    justify-content: space-around;
+}
+section{
+    padding-bottom: 25px;
+}

@@ -1,0 +1,14 @@
+.link {
+    display: inline-flex; /* Exibe os links em linha */
+    font-size: 18px;
+    padding: 10px;
+    text-decoration: none;
+    color: var(--branco);
+    margin-right: 20px; /* Espaçamento entre os links */
+  }
+
+  .link:hover{
+    background-color: var(--cinza);
+    color: var(--preto);
+    border-radius: 15px;
+  }

@@ -1,0 +1,9 @@
+.cabecario {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em 5vw; /* Reduz o padding lateral para ser mais flexível */
+    background-color: var(--preto);
+}
+
+  
